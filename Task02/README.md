@@ -104,6 +104,12 @@ git push origin main
 
 ---
 
+📸 Output:
+
+![.gitignore usage](./01.png)
+
+---
+
 ## ✅ Outcome
 
 * Successfully created a `.gitignore` file

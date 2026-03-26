@@ -129,6 +129,14 @@ This confirms:
 
 ---
 
+📸 Output:
+
+![Init a git repo](./01.png)
+
+![Commiting and merging](./01.png)
+
+---
+
 ## ✅ Outcome
 
 * Successfully initialized a Git repository
