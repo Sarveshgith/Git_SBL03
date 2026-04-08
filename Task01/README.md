@@ -133,7 +133,7 @@ This confirms:
 
 ![Init a git repo](./01.png)
 
-![Commiting and merging](./01.png)
+![Commiting and merging](./02.png)
 
 ---
 
